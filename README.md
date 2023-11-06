@@ -29,7 +29,13 @@ The following screenshots provide a visual guide to how it can be used.
 
 ![Screen Shot 2023-10-31 at 11 28 38 AM](https://github.com/kwubbenhorst/work-day-scheduler/assets/140316693/08b1e25d-479e-4ceb-91d6-0cd8dca639e4)
 
+Entries saved in local Storage can be overwritten to create and save new entries
+
 ![Screen Shot 2023-10-31 at 11 32 41 AM](https://github.com/kwubbenhorst/work-day-scheduler/assets/140316693/141d0f39-18b2-4efb-b8e2-b14537c56d65)
+
+Returning a few days later in a different browser session at a different time of day, note that the time has been continually updated and is still accurate, with the corresponding appearance of the day-scheduler in terms of the past, present and future colouring, having been updated too. The entries saved on Tuesday, October 31 are still persisting on November 5, having been retrieved from the local storage of the device used.
+
+![Screen Shot 2023-11-05 at 8 32 04 PM](https://github.com/kwubbenhorst/work-day-scheduler/assets/140316693/80998735-268c-4841-94dd-8b2f6ce37635)
 
 
 ## Credits
