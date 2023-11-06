@@ -25,6 +25,13 @@ This web application is deployed and ready for use on the World Wide Web.  Pleas
 
 The following screenshots provide a visual guide to how it can be used.
 
+![Screen Shot 2023-10-31 at 11 28 01 AM](https://github.com/kwubbenhorst/work-day-scheduler/assets/140316693/1714ed54-659e-4644-8a9c-90c5d175972a)
+
+![Screen Shot 2023-10-31 at 11 28 38 AM](https://github.com/kwubbenhorst/work-day-scheduler/assets/140316693/08b1e25d-479e-4ceb-91d6-0cd8dca639e4)
+
+![Screen Shot 2023-10-31 at 11 32 41 AM](https://github.com/kwubbenhorst/work-day-scheduler/assets/140316693/141d0f39-18b2-4efb-b8e2-b14537c56d65)
+
+
 ## Credits
 
 Karla Wubbenhorst wrote the script.js file using jQuery which provides dynamic functionality to this web application. Its html structure and custom css styling was provided in sourcecode from EdX bootcamp's module 5 challenge. To arrive at the syntax I used in the renderEntries and setPastPresentFuture functions to iterate through arrays using the .each method I consulted the jQuery library's learning centre documentation: https://learn.jquery.com/using-jquery-core/iterating/, and Stack Overflow. I am also indebted to Traversy Media's 5 part crash course in JQuery on youtube for solidifying the general concepts of DOM traversal and click event handling.       
